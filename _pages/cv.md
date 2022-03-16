@@ -59,5 +59,5 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 
-<iframe src="https://derek-corcoran.shinyapps.io/WhereShouldYouLive/" style="border:none;width:1000px;height:500px;"></iframe>
+
 
