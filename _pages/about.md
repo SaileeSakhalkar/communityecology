@@ -1,12 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Community ecology. Introduction to ecological theory."
+excerpt: "About the course"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+This course aims at presenting major concepts in current ecological thinking, mainly at interspecific and community levels. It has a strong theoretical component, and is organized as a hands-on course, with interactive paper reading and discussions, and modelling of ecological concepts in the R environment and Shiny.
+
+Each lesson has these parts:
+
+(*) reading and paper discussion (for papers to be read for each lesson, see 2017En.xls). We expect that everybody will read one paper thoroughly, and have a look at the other paper. At the lesson, we will give some time (10-15 mins) to each group to discuss the paper among themselves. Then each group will present the paper to the other group (no formal presentation, but whiteboard-marker system welcome). The presentation should primarily concentrate on (i) what the authors wanted to know and why it was interesting (context)(ii) how they did it (overview of the methodology; details need not be discussed), (iii) basic findings, and (iv) what does it mean (how the findings contribute to the questions at the beginning). Group A: surnames begin with A-M, Group B: surnames begin with N-Z
+
+(*) lecture by one of us, where we will present concepts and ideas from the given topic (1 to 1.5 hrs)
+
+(*) practicals with R functions illustrating some of the phenomena from the given topic (ca 1 hr). Knowledge of the R environment is helpful, but not strictly necessary (as all functions and scripts are available in advance, and only minor modifcations are necesasry to make the whole thing run). 
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
