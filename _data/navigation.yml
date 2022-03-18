@@ -4,32 +4,7 @@ main:
   - title: "Introduction"
     url: /introduction/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Models"
+    url: /models/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
-    
-  - title: "Class1"
-    url: /lass1/
-    
-  - title: "Class2"
-    url: /class2/
-    
-  - title: "Class3"
-    url: /class3/
+  
