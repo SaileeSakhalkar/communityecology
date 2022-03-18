@@ -1,5 +1,5 @@
 ---
-permalink: /introduction
+permalink: /introduction/
 title: "Introduction"
 excerpt: "Introduction to ecological theory"
 author_profile: true
