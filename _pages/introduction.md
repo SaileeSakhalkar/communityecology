@@ -34,7 +34,7 @@ States of a system are often characterized by a combination of particular contin
 
 ### Extra credits
 
-For a fun, interactive explanation of attractor landscapes, take a look at this webpage [https://ncase.me/attractors/]
+For a fun, interactive explanation of attractor landscapes, take a look at this webpage [https://ncase.me/attractors/](https://ncase.me/attractors/)
 
 [![Image describing attractor landscapes](https://www.mchogan.com/wp-content/uploads/2019/07/image-9.jpg "Attractor Landscapes by Nicky Case")](https://ncase.me/attractors/)
 
