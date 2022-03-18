@@ -38,6 +38,6 @@ This course aims at presenting major concepts in current ecological thinking, ma
 
   Knowledge of the R environment is helpful, but not strictly necessary. The course is currently being adapted for Shiny, but all functions and scripts are available at the course listing on SIS. 
 
-  Even with code running in R, all functions and scripts are available in advance, and only minor modifcations are necesasry to make the whole thing run. 
+  Even with code running in R, all functions and scripts are available in advance, and only minor modifications are necessary to make the whole thing run. 
 
 ___
