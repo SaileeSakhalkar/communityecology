@@ -4,8 +4,8 @@ title: "Introduction"
 excerpt: "Introduction to ecological theory"
 author_profile: true
 redirect_from: 
-  - /introduction/
-  - /introduction.html
+
+
 ---
 
 Any theory aims towards **recovering the landscape of possibilities of what can happen in nature**, it is thus always the basis of any thinking about the causes of observed patterns.   
