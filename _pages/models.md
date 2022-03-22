@@ -30,5 +30,6 @@ The underlying R functions and sample script are available on [SIS](https://is.c
    2. [Environmental change influences the **growth parameters** of two species](https://saileesakhalkar.shinyapps.io/Coexistence/)
 
 ### Class 5: Predator-prey models
-_Coming soon_
+1. [Lotka-Volterra Predator-Prey Neutral model](https://saileesakhalkar.shinyapps.io/Predator-prey-neutral/)
+2. [Predator-Prey model with density dependence](https://saileesakhalkar.shinyapps.io/predatorpreynonneutral/)
 
